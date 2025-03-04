@@ -1,4 +1,7 @@
 import React from 'react';
+
+import './index.css' // Import Tailwind CSS here
+
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Dashboard from './pages/Dashboard';
 import Users from './pages/Users';
