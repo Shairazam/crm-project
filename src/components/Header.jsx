@@ -15,7 +15,7 @@ const Header = () => {
         <img
            src={img1}
            alt="Profile"
-           className="w-4 h-4 rounded-full object-cover "
+           className="w-8 h-8 rounded-full object-cover "
         />
 
       </div>
