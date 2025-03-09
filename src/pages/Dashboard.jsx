@@ -13,7 +13,7 @@ const Dashboard = () => {
   return (
     <div className="flex flex-col min-h-screen">
       <Header />
-      <div className="flex flex-1">
+      <div className="flex flex-col md:flex-row">  
         <Sidebar />
         <div className="flex-1 p-4">
           <h1 className="text-2xl font-bold mb-4">Dashboard</h1>
